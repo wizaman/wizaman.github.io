@@ -1,4 +1,4 @@
-# wizaman's space
+# Home
 
 ウィザまん(wizaman)と名乗って好きなことしてます。
 
