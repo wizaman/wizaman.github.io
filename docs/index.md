@@ -5,6 +5,7 @@
 ## アカウント
 
 - Twitter: [@wizamanwizaman](https://twitter.com/wizamanwizaman)
+- Bluesky: [@wizaman.bsky.social](https://bsky.app/profile/wizaman.bsky.social)
 - YouTube: [@wizamanwizaman](https://www.youtube.com/@wizamanwizaman)
 - GitHub: [wizaman](https://github.com/wizaman)
 
@@ -19,4 +20,3 @@
 ゲーム「[エクストルーパーズ(E.X.TROOPERS)](https://www.capcom-games.com/product/ja-jp/extroopers/)」のファンコミュニティ「EXTSアカデミー」をDiscordで運用中です。
 
 招待リンク: [https://discord.gg/DQT8BUereY](https://discord.gg/DQT8BUereY)
-
