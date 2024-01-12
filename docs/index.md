@@ -20,3 +20,7 @@
 ゲーム「[エクストルーパーズ(E.X.TROOPERS)](https://www.capcom-games.com/product/ja-jp/extroopers/)」のファンコミュニティ「EXTSアカデミー」をDiscordで運用中です。
 
 招待リンク: [https://discord.gg/DQT8BUereY](https://discord.gg/DQT8BUereY)
+
+## メモ
+
+- [ガンヴォルト楽曲一覧](./gunvolt.md)
