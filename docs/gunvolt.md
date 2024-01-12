@@ -1,6 +1,7 @@
 # ガンヴォルト楽曲一覧
 
 - 原則として登場作品順に並べている。
+- RoRo楽曲のみ英題表記がつく。
 - 「ELECTRO ROTATION」収録の「虚空の円環」の英題が表記揺れしている。
   - ブックレットのみ「Vast Circle」表記。
   - 他では「Vast Ring」表記。
@@ -34,7 +35,7 @@
 | 菫青石(アイオライト)/Iolite                  | RoRo(遠藤ゆりか)                        | GV爪         | 爪サントラ                                                   | ELECTRO ROTATION                                             | 機械仕掛けの儚夢       |
 | 藍の運命/Indigo Destiny                      | RoRo(遠藤ゆりか)                        | GV爪         | 爪サントラ                                                   | ELECTRO ROTATION<br />2018 REMIX：オコワ                     | 機械仕掛けの儚夢       |
 | 藍の運命 - デュエット版 -                    | モルフォ(櫻川めぐ) & RoRo(遠藤ゆりか)   | GV爪         | 爪サントラ                                                   | -                                                            | -                      |
-| 並行世界(パラレルワールド)                   | モルフォ(櫻川めぐ)                      | 3DS版GVSP    | 爪サントラ                                                   | 夢現の青<br />2018 REMIX：オコワ                             | 楽園狂騒曲             |
+| 並行世界(パラレルワールド)                   | モルフォ(櫻川めぐ)                      | 3DS版GVSP    | 爪サントラ                                                   | 夢現の青 - into the blue -<br />2018 REMIX：オコワ           | 楽園狂騒曲             |
 | 成層圏(ストラトスフィア)/Stratosphere        | RoRo(遠藤ゆりか)                        | GV爪DLC      | -                                                            | ELECTRO ROTATION<br />2018 REMIX：オコワ                     | 機械仕掛けの儚夢       |
 | 空白書版(タブラ・ラサ)                       | モルフォ(櫻川めぐ)                      | Switch版GVSP | -                                                            | 楽園狂騒曲<br />2018 REMIX：オコワ                           | 楽園狂騒曲             |
 | 最期の冀望                                   | モルフォ(櫻川めぐ)                      | OVA          | -                                                            | OVA活劇歌曲集                                                | OVA活劇歌曲集          |
