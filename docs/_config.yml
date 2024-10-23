@@ -3,3 +3,5 @@ title: wizaman's space
 description: wizaman's personal website
 author: wizaman
 url: https://wizaman.github.io/
+plugins:
+  - jekyll-sitemap
