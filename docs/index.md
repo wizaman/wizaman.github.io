@@ -11,8 +11,8 @@
 
 ## Webサイト
 
-- [wizaman-blog](https://wizaman.hatenablog.com/) (普段のブログ)
-- [wizaman-tech-blog](https://wizaman-tech.hatenablog.com/) (技術ブログとして利用予定)
+- [wiza-note](https://wizaman.hatenablog.com/) (メインブログ)
+- [wiza-tech](https://wizaman-tech.hatenablog.com/) (技術ブログ)
 - [wizaman's blog](https://blog.wizaman.net/) (旧ブログ)
 
 ## EXTSアカデミー
