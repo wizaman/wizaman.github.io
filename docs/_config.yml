@@ -2,6 +2,6 @@ theme: jekyll-theme-primer
 title: wizaman's works
 description: wizaman's personal website
 author: wizaman
-url: https://wizaman.github.io/
+url: https://wizaman.github.io
 plugins:
   - jekyll-sitemap
